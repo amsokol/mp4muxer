@@ -1,6 +1,14 @@
 import 'package:flutter/material.dart';
 
+import './debug.dart';
+
 void main() {
+  // showLayoutGuidelines();
+  // showBaselines();
+  // highlightRepaints();
+  // setSlowAnimations();
+  // showOversizedImages();
+
   runApp(const MyApp());
 }
 
